@@ -7,10 +7,10 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ahmed Hemeda</h1>
+<h1 align="center">Hi 👋, I'm MMohamed Hossam</h1>
 
 <h3 align="center">
-Frontend Developer • Software Engineer • UI/UX Enthusiast
+Software Engineer 
 </h3>
 
 <p align="center">
@@ -39,40 +39,25 @@ Building modern, scalable web apps with clean UI & smooth UX
 
 ### 📎 Quick Links
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
     <img src="https://img.shields.io/badge/View CV-0A192F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="https://a-hemeda.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:7hemeda@gmail.com">
+  <a href="mailto:mhossam572000@gmail.com@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
-  <a href="https://linkedin.com/in/a-hemeda">
+  <a href="https://www.linkedin.com/in/mohamed-hossam-112648240/">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="https://x.com/11Hemeda">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png"/>
-  </a>
-  <a href="https://youtube.com/@A-Hemeda">
-    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
-  </a>
-  <a href="https://leetcode.com/u/11Hemeda">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-  </a>
-  <a href="https://codeforces.com/profile/Hemeda1">
-    <img src="https://img.icons8.com/color/48/codeforces.png"/>
-  </a>
-  <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-    <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
   </a>
 </p>
 
