@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hossam</h1>
 
 <h3 align="center">
-Software Engineer 
+Frontend Developer • Software Engineer
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Building modern, scalable web apps with clean UI & smooth UX
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&color=00C853&center=true&vCenter=true&width=600&height=60&pause=2000&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Modern+UI+%7C+API+Integration;FastAPI+%2B+Node.js+Integration;Teaching+Assistant+at+AAST;Always+Learning+%26+Building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&color=00C853&center=true&vCenter=true&width=600&height=60&pause=2000&lines=Frontend+Developer+💻;React+%7C+Modern+UI+%7C+API+Integration;FastAPI+%2B+Node.js+Integration;Teaching+Assistant+at+AAST;Real+World+Systems+Developer+🚀)
 
 </div>
 
@@ -31,29 +31,44 @@ Building modern, scalable web apps with clean UI & smooth UX
 
 - 💻 Frontend Developer focused on **React & modern UI**
 - 🔗 Strong in **API Integration (FastAPI + Node.js)**
-- 🎯 Passionate about **clean code & user experience**
+- 🏢 Worked on **enterprise systems @ Technia Solutions**
 - 👨‍🏫 Teaching Assistant at **AAST**
-- ⚡ Work with Agile tools & real-world workflows
+- ⚡ Experienced with **Agile & team collaboration tools**
 
 ---
 
-### 📎 Quick Links
+### 🏗️ Real Projects @ Technia Solutions
 
-<!-- <p align="center">
-  <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-    <img src="https://img.shields.io/badge/View CV-0A192F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-  <a href="https://a-hemeda.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p> -->
+<p align="center">
+
+<a href="https://hr.business.techniasolutions.co/hr-dashboard?startDate=2026-04-01&endDate=2026-04-30">
+  <img src="https://img.shields.io/badge/HR System-0A192F?style=for-the-badge&logo=databricks&logoColor=white"/>
+</a>
+
+<a href="https://sales.business.techniasolutions.co/dashboard">
+  <img src="https://img.shields.io/badge/Sales CRM-0A192F?style=for-the-badge&logo=hubspot&logoColor=white"/>
+</a>
+
+<a href="https://admin.realestate.techniasolutions.co/real-estate-dashboard?startDate=2026-04-01&endDate=2026-04-30">
+  <img src="https://img.shields.io/badge/Real Estate CRM-0A192F?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
+</a>
+
+<a href="https://gyms.techniasolutions.co/dashboard">
+  <img src="https://img.shields.io/badge/Gym Management System-0A192F?style=for-the-badge&logo=fitbit&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+⚡ Built scalable dashboards, handled complex UI flows, and integrated APIs across multiple business domains
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mhossam572000@gmail.com@gmail.com">
+  <a href="mailto:mhossam572000@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-hossam-112648240/">
