@@ -1,121 +1,128 @@
-<div style="background-color: bisque; padding: 20px; border-radius: 10px;">
-
-<h1 align="center">Mohamed Hossam</h1>
-<h3 align="center">Full Stack Developer • React • Spring Boot • Scalable Web Apps</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://gh-most-followed.pages.dev/egypt">
+    <img src="https://img.shields.io/badge/13ᵗʰ Most Followed 🇪🇬-262827?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://committers.top/egypt">
+    <img src="https://img.shields.io/badge/4ᵗʰ Most Active 🇪🇬-262827?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Ahmed Hemeda</h1>
 
-## 👨‍💻 About Me
-
-- 🎓 IT Student / Developer focused on real-world applications  
-- 💡 Strong in **React, JavaScript, and modern frontend architecture**  
-- ⚙️ Building backend systems using **Spring Boot & REST APIs**  
-- 🚀 Currently working on full-stack projects and improving system design skills  
-- 🎯 Interested in **scalable systems, clean code, and performance**
-
----
-
-## 🚀 Currently Working With
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat"/>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
-</p>
-
-### ⚙️ Backend & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
+<h3 align="center">
+Frontend Developer • Software Engineer • UI/UX Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+Building modern, scalable web apps with clean UI & smooth UX
 </p>
 
 ---
 
-## 📌 Featured Projects
+<div align="center">
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Limos Bakery Website</strong>
-        <br/>
-        <sub>Portfolio + Menu Website (React + modern UI/UX)</sub>
-      </td>
-      <td align="center">
-        <strong>Spring Boot Backend System</strong>
-        <br/>
-        <sub>REST API with authentication & business logic</sub>
-      </td>
-      <td align="center">
-        <strong>Dashboard System</strong>
-        <br/>
-        <sub>Charts, analytics, and reusable React components</sub>
-      </td>
-      <td align="center">
-        <strong>Order Management System</strong>
-        <br/>
-        <sub>Handles orders, returns, and business workflows</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-
----
-
-<p align="center">
-  <em>Building scalable full-stack applications with clean architecture.</em>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&color=00C853&center=true&vCenter=true&width=600&height=60&pause=2000&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Modern+UI+%7C+API+Integration;FastAPI+%2B+Node.js+Integration;Teaching+Assistant+at+AAST;Always+Learning+%26+Building+%F0%9F%9A%80)
 
 </div>
+
+---
+
+### 🚀 About Me
+
+- 💻 Frontend Developer focused on **React & modern UI**
+- 🔗 Strong in **API Integration (FastAPI + Node.js)**
+- 🎯 Passionate about **clean code & user experience**
+- 👨‍🏫 Teaching Assistant at **AAST**
+- ⚡ Work with Agile tools & real-world workflows
+
+---
+
+### 📎 Quick Links
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
+    <img src="https://img.shields.io/badge/View CV-0A192F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  <a href="https://a-hemeda.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:7hemeda@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/a-hemeda">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://x.com/11Hemeda">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png"/>
+  </a>
+  <a href="https://youtube.com/@A-Hemeda">
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
+  </a>
+  <a href="https://leetcode.com/u/11Hemeda">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+  </a>
+  <a href="https://codeforces.com/profile/Hemeda1">
+    <img src="https://img.icons8.com/color/48/codeforces.png"/>
+  </a>
+  <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
+    <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+#### ⚙️ Backend Integration
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
+
+#### 🛠 Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,jira,slack&perline=6" />
+</p>
+
+#### 📊 Project Management
+<p>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg">
+</p>
